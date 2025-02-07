@@ -9,11 +9,14 @@ Welcome to the Weather App repository! This project is a web application that pr
 - **Explore Section**: You Can See Many Random City Weather On Explore Section
 - **Add More Citys**: You Can Add More Citys 
 
+
 ### Technologies Used 
 
 - **Frontend**: HTML, CSS, JAVASCRIPT
 - **API**: [OpenWeatherMap](https://openweathermap.org/)
 - **Icons**: [Fontawesome](https://fontawesome.com/)
+###  Screenshots
+![image alt](https://github.com/Rakhii1507/Weather-Website/blob/c975203ad5deb98c1f4849b3a579e91ee2916c85/Screenshot%202025-02-07%20205554.png)
 
 ## Getting Started
 
